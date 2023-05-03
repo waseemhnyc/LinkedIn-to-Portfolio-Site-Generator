@@ -1,0 +1,5 @@
+/.chroma
+/*.parquet
+/nextjs-portfolio-starter/pages/index.mdx
+.env
+/nextjs-portfolio-starter/node_modules
