@@ -16,8 +16,9 @@ We interact with the GPT-4 model using [LangChain](https://github.com/hwchase17/
 For this demo, I used LangChain's Co-founder and CEO [Harrison Chase](https://twitter.com/hwchase17)'s LinkedIn.
 
 You can find his deployed site here: <https://harrison-six.vercel.app/>
+Video: https://www.youtube.com/watch?v=jY5UnSBq8sI
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jY5UnSBq8sI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Demo Video](assets/screenshot.png)](https://www.youtube.com/watch?v=jY5UnSBq8sI)
 
 ## Prerequisites
 
